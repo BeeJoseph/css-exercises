@@ -4,11 +4,15 @@ p {
    font-size: 24px;
 }
 
-#divtwo {
+#divone {
     color: blue;
     font-size: 36px;
 }
 
 .paragraph.two {
     font-size: 24px;
+}
+
+#divtwo {
+
 }
