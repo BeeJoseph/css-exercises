@@ -32,14 +32,16 @@ ul {
   list-style-type: none;
   display: flex;
   border: solid;
-  justify-content: space-between;
+  gap: 8px;
+
 }
 
-.left-links li {
+
+li {
   display: flex;
   border: solid;
-  flex: 1;
-  justify-content: flex-start;
+  justify-self: space-between;  
+
 
 }
 
