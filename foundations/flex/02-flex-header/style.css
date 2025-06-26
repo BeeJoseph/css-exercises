@@ -2,13 +2,22 @@
   font-family: monospace;
   background: papayawhip;
   display: flex; 
+  justify-content: space-around;
+  flex: auto;
+  
 }
 
-/* 
+
+
+ 
 .left-links {
+  display: flex;
+  border: solid;
+  flex-grow: 1;
   justify-content: center;
 }
-*/ 
+ 
+
 
 .logo {
   font-size: 48px;
