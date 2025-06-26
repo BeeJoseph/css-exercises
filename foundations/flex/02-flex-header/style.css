@@ -1,22 +1,22 @@
 .header  {
   font-family: monospace;
   background: papayawhip;
+  border: solid;
   display: flex; 
-  justify-content: space-around;
-  flex: auto;
+  justify-content: space-between;
   
 }
 
 
 
- 
+ /*
 .left-links {
   display: flex;
   border: solid;
   flex-grow: 1;
   justify-content: center;
-}
- 
+} */
+
 
 
 .logo {
@@ -30,7 +30,12 @@
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
+  display: flex;
+  border: solid;
+  justify-content: space-between;
 }
+
+
 
 a {
   font-size: 22px;
