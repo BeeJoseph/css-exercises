@@ -35,7 +35,13 @@ ul {
   justify-content: space-between;
 }
 
+.left-links li {
+  display: flex;
+  border: solid;
+  flex: 1;
+  justify-content: flex-start;
 
+}
 
 a {
   font-size: 22px;
