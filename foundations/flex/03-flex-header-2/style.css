@@ -14,7 +14,9 @@ body {
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   display: flex;
   align-items: center;
+  padding: 5px;
 }
+
 
 .profile-image {
   background: rebeccapurple;
@@ -48,10 +50,11 @@ a {
 ul {
   list-style-type: none;
   display: flex;
+  gap: 15px;
+  flex: 1;
+  border: solid;
+  padding-left: 3px;
 }
 
-.logo,
-.links {
-  border: solid;
-  display: flex;
-}
+
+
