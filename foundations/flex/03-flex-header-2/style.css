@@ -39,6 +39,8 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
+  display: flex;
+  margin-right: 16px;
 }
 
 a {
