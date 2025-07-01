@@ -55,8 +55,7 @@ ul {
   display: flex;
   gap: 15px;
   flex: 1;
-  border: solid;
-  padding-left: 3px;
+  padding-left: 15px;
 }
 
 
